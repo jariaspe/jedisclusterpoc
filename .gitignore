@@ -1,0 +1,6 @@
+appendonly.aof
+nodes.conf
+dump.rdb
+/target
+/bin
+.classpath
